@@ -1,1 +1,1 @@
-# SPOJ-problems
+# SPOJ-problems are awesome
